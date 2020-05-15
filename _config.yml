@@ -1,8 +1,8 @@
 # Site settings
 title: Justin Tirrell
 description: 'Ecology, Biodiversity, Simulations Models'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+url: 'https://justintirrell.net'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
